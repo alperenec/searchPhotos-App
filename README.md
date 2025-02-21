@@ -1,5 +1,4 @@
 # Photo Search App 📸  
-
 A modern, responsive React application that lets you search for photos via the Unsplash API and manage your favorite images in real-time. Built with Vite and powered by Axios for API calls.  
 
 ## 🎥 Demo  
